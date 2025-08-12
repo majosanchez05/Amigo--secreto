@@ -12,7 +12,7 @@ Los nombres ingresados se mostrarán en una lista visible en la página, y al fi
   - Visualización automática en una lista.  
 
 - **Mostrar lista de amigos**  
-  - Los nombres se muestran en una lista HTML `<ul>`.  
+  - Los nombres se muestran en una lista HTML.  
   - Se actualiza dinámicamente sin duplicados.  
 
 - **Sorteo aleatorio**  
@@ -21,3 +21,5 @@ Los nombres ingresados se mostrarán en una lista visible en la página, y al fi
   - Validación para evitar sorteo si no hay amigos.  
 
 ---
+
+
